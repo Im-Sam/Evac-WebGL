@@ -1,0 +1,2 @@
+Build/WebGL.asm filter=lfs diff=lfs merge=lfs -text
+Build/WebGL.asm.js filter=lfs diff=lfs merge=lfs -text
